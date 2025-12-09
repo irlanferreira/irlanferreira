@@ -48,3 +48,17 @@ Criador de conteúdo, desenvolvedor e apaixonado por transformar código em proj
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white">
 </p>
 
+---
+
+## 🚀 Curso: Python Automático
+
+Aprenda na prática como usar o **Python para automatizar tarefas do dia a dia**, mesmo começando do zero.  
+Do básico até automações reais com arquivos, planilhas, web, e muito mais.
+
+✅ Ideal para iniciantes  
+✅ Foco total em prática  
+✅ Conteúdo direto ao ponto  
+✅ Aprenda criando projetos reais  
+
+🔗 Acesse agora:
+👉 https://python-automatico.squareweb.app/
